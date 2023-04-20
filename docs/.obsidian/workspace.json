@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "bd53071a3793122b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b62c2548ac0ee78f",
+        "type": "tabs",
+        "dimension": 80.43052837573386,
+        "children": [
+          {
+            "id": "b850b52f2e962f18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.1 Prompt Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "20c666ceef0e4cf6",
+        "type": "tabs",
+        "dimension": 19.569471624266143,
+        "children": [
+          {
+            "id": "dfcb38f07c5b3d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO/Colours.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59a38194cd9af44b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb7875bae3087a73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a274fd9e58148b27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e4d4d57c3979dbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "107abc042f9d8ef3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0007c15e07b9b9ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ad4ef594a8ad4c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59249cd914429e86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.1 Prompt Structure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d50d828366004f96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.1 Prompt Structure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c12de9a8b94cdc87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "22a7ac2561eb320f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.1 Prompt Structure.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b850b52f2e962f18",
+  "lastOpenFiles": [
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2 Tags.md",
+    "2. Basic Prompting/3. Inspiration.md",
+    "2. Basic Prompting/1. Fundamentals of Image Generation Models.md",
+    "2. Basic Prompting/1. Writing Prompts/1.4-1.8 Everything surrounding words",
+    "2. Basic Prompting/2. Improving Generated Output",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags",
+    "2. Basic Prompting/1. Writing Prompts",
+    "2. Basic Prompting/1. Writing Prompts/1.1 Samplers/1.1.5 DPM++ SDE Karras.md",
+    "2. Basic Prompting/1. Writing Prompts/1.1 Samplers/1.1 Samplers.md",
+    "2. Basic Prompting/1. Writing Prompts/1.1 Samplers/1.1.3 DDIM.md",
+    "2. Basic Prompting/1. Writing Prompts/1.1 Samplers/1.1.4 UniPC.md",
+    "2. Basic Prompting/1. Writing Prompts/1.1 Samplers/1.1.1 DPM++ 2M Karras.md",
+    "2. Basic Prompting/1. Writing Prompts/1.1 Samplers/1.1.2 Euler A.md",
+    "2. Basic Prompting/1. Writing Prompts/1.1 Samplers",
+    "2. Basic Prompting/0. Table of Contents.md",
+    "1. Installation/2.5 Tick K-Diffusion Samplers produce same image in a batch.md",
+    "1. Installation/2.4 Untick Interrogate Deepbooru sort alphabetically.md",
+    "1. Installation/2.3 Set CLIP SKIP to 2.md",
+    "1. Installation/2.2 Add VAE to menu selection.md",
+    "1. Installation/2.1 Save Prompt and Generation Information To File.md",
+    "1. Installation/2. Setup.md",
+    "1. Installation/1. Installing Automatic1111 WebUI.md",
+    "2. Basic Prompting/2. Improving Generated Output/2.1 Creating variations.md",
+    "TODO/Colours.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.3 Token bleed and Token fighting.md",
+    "2. Basic Prompting/1. Writing Prompts/1.4-1.8 Everything surrounding words/1.5 Weights.md",
+    "2. Basic Prompting/1. Writing Prompts/1.4-1.8 Everything surrounding words/1.4 Commas.md",
+    "2. Basic Prompting/1. Writing Prompts/1.4-1.8 Everything surrounding words/1.6 Adjusting CFG.md",
+    "2. Basic Prompting/1. Writing Prompts/1.4-1.8 Everything surrounding words/1.7 Target Resolution.md",
+    "2. Basic Prompting/1. Writing Prompts/1.4-1.8 Everything surrounding words/1.8 Upscalers.md",
+    "Glossary/PNG Info.md",
+    "Pasted image 20230419173538.png",
+    "Pasted image 20230417154846.png",
+    "Obsidian Vault.zip",
+    "netlify.toml",
+    "TODO",
+    "Photorealistic and in between models"
+  ]
+}
