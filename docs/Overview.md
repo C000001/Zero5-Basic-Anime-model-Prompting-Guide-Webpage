@@ -22,8 +22,7 @@ This guide is for people who:
 >Also: The guide is based on what I read and what I experimented with. I do not guarantee the validity of the guide. Please don't trust the guide, run your own experiments. 
 
 >[!note]+ Note: This guide is SFW. 
-I want the most people to benefit from this guide. Jumping from SFW to NSFW prompts is easier than from NSFW to SFW, and has the added benefit that you can read this hopefully without triggering some sensors at your workplace.
-</details>
+>I want the most people to benefit from this guide. Jumping from SFW to NSFW prompts is easier than from NSFW to SFW, and has the added benefit that you can read this hopefully without triggering some sensors at your workplace.
 
 First off, we want to start with installing the [[1. Installing Automatic1111 WebUI |Automatic1111 WebUI ]]. 
 Then, we want to make sure we have the right [[2.1 Save Prompt and Generation Information To File|Setup]]. Even experienced users should take a quick look at this section, I have a [[2. Setup|list]] at the start. 
