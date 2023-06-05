@@ -9,84 +9,12 @@
         "dimension": 80.43052837573386,
         "children": [
           {
-            "id": "b850b52f2e962f18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.1 Prompt Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be3f49693b421108",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.1 Prompt Structure Examples/Example 1 - Girl resting in a cave.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7d64d057efe806e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.1 Prompt Structure Examples/Example 2 - City nighttime Headphone Girl.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "627964efbb200b55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.1 Prompt Structure Examples/Example 1 - Girl resting in a cave.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7f9c8a0d1686abc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/1.4 Commas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bee330cdb7a00cdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2 Individual Tags.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1611b93013ad0cbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/1. (Optional) General description.md",
+                "file": "2. Basic Prompting/2. Improving Generated Output/2.2 Img2Img.md",
                 "mode": "source",
                 "source": false
               }
@@ -350,14 +278,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/1.4 Commas.md",
+                "file": "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/x.x Commas (ignore, outdated, will do more research way later).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ba0b1001646f3e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.4 Legs, Feet, Shoes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 28
+        ]
       },
       {
         "id": "20c666ceef0e4cf6",
@@ -421,6 +360,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6097773d88528486",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -442,7 +389,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/1.4 Commas.md",
+                "file": "2. Basic Prompting/2. Improving Generated Output/2.2 Img2Img.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -459,7 +406,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/1.4 Commas.md",
+                "file": "2. Basic Prompting/2. Improving Generated Output/2.2 Img2Img.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -482,7 +429,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/1.4 Commas.md"
+                "file": "2. Basic Prompting/2. Improving Generated Output/2.2 Img2Img.md"
               }
             }
           }
@@ -503,46 +450,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e228071b715f6012",
+  "active": "1611b93013ad0cbe",
   "lastOpenFiles": [
+    "2. Basic Prompting/2. Improving Generated Output/2.3 Inpainting.md",
+    "2. Basic Prompting/2. Improving Generated Output/2.2 Img2Img.md",
+    "10image.png",
+    "1-00123-1105595110.png",
+    "5image.png",
+    "00006-3292840895.png",
+    "00123-1105595110 1.png",
+    "4image.png",
+    "2image.png",
+    "imag1e.png",
+    "00123-1105595110.png",
+    "image.png",
+    "2. Basic Prompting/2. Improving Generated Output/2.1 Creating variations.md",
+    "2. Basic Prompting/3. Getting inspiration/3.2 Booru.md",
+    "2. Basic Prompting/3. Getting inspiration/3.1 Civitai showcases.md",
+    "2. Basic Prompting/2. Improving Generated Output/2. Improving an existing picture.md",
+    "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/1.8 Upscalers.md",
+    "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/1.7 Target Resolution.md",
+    "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/1.6 Adjusting CFG.md",
+    "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/1.5 Cohesive Tags.md",
+    "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/1.4 Weights.md",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.3 Token bleed and Token fighting.md",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.3 Negative Tags.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2 Individual Tags.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/0. Overview + 7z file.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2.5 Pose.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/3. Background.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/4. Camera + View.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/5. Lightning + Focus.md",
+    "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/x.x Commas (ignore, outdated, will do more research way later).md",
+    "Intermediate Guide.md",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/6. Style.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/7. Boilerplate + Misc.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/1. (Optional) General description.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2 Tags.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/5. Ears.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/4. Eyes.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.8 Accessories.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.7 Misc + onepiece.md",
     "TODO/Colours.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.6 Traditional Clothes.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.5 Costume.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.4 Legs, Feet, Shoes.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.3 Bottom.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.2 Top.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.1 Head.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/7. Skin Color.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/7. Boilerplate + Misc.md",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/1. Amount + Gender.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.8 Accessories.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.1 Head.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/5. Lightning + Focus.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/4. Camera + View.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.2 Top.md",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/6. Body Figure.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list",
     "2. Basic Prompting/0. Overview",
-    "Pasted image 20230420172218.png",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.1 Prompt Structure Examples/Untitled",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.1 Prompt Structure Examples",
     "2. Basic Prompting/4. Extras",
     "2. Basic Prompting/3. Getting inspiration",
     "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words",
-    "2. Basic Prompting/2. Improving Generated Output",
-    "Pasted image 20230419173538.png",
-    "Pasted image 20230417154846.png"
+    "2. Basic Prompting/2. Improving Generated Output"
   ]
 }

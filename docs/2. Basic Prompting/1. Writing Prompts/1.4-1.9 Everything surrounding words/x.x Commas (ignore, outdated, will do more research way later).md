@@ -4,6 +4,10 @@ share: true
 ---  
 ```
 
+I did more research, commas do seem to impact the image heavily. I will launch a few more researches later, but it seems like a topic to cover in the [[Intermediate Guide]]
+
+
+Outdated+maybe wrong for 1x+ series NVIDIA GPUs? I'm really getting confused by the GPUs:
 <font 
 color=F1ACAB><h2>Commas do not majorly impact the image. </h2></font>
 Most beginners think they do, but they don't. They slightly help with separation, and that's it. 

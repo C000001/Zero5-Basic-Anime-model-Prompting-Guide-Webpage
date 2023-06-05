@@ -5,7 +5,7 @@ Add pics to [[1. Installing Automatic1111 WebUI]] for the models
 Split Basic Prompting into 3.
 Write [[How to select a VAE| How to add VAE]]
 Write [[1.2 Tags#^df4988]] exceptions to the rule
-Write [[1.4 Commas]] and do prompting 
+Write [[x.x Commas (ignore, outdated, will do more research way later)]] and do prompting 
 Figure out some OC for the purpose of this guide. Book? Girl? Cat?
 Do more research on negatives
 ![[Pasted image 20230417154846.png]]
