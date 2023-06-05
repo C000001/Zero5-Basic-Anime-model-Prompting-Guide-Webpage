@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Basic Prompting/2. Improving Generated Output/2.2 Img2Img.md",
+                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.1 Head.md",
                 "mode": "source",
                 "source": false
               }
@@ -389,7 +389,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Basic Prompting/2. Improving Generated Output/2.2 Img2Img.md",
+                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.1 Head.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -406,7 +406,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Basic Prompting/2. Improving Generated Output/2.2 Img2Img.md",
+                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.1 Head.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -429,7 +429,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Basic Prompting/2. Improving Generated Output/2.2 Img2Img.md"
+                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.1 Head.md"
               }
             }
           }
@@ -452,8 +452,10 @@
   },
   "active": "1611b93013ad0cbe",
   "lastOpenFiles": [
-    "2. Basic Prompting/2. Improving Generated Output/2.3 Inpainting.md",
+    "TODO/Colours.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.1 Head.md",
     "2. Basic Prompting/2. Improving Generated Output/2.2 Img2Img.md",
+    "2. Basic Prompting/2. Improving Generated Output/2.3 Inpainting.md",
     "10image.png",
     "1-00123-1105595110.png",
     "5image.png",
@@ -478,11 +480,9 @@
     "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/x.x Commas (ignore, outdated, will do more research way later).md",
     "Intermediate Guide.md",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/6. Style.md",
-    "TODO/Colours.md",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/7. Boilerplate + Misc.md",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/1. Amount + Gender.md",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.8 Accessories.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.1 Head.md",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/5. Lightning + Focus.md",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/4. Camera + View.md",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.2 Top.md",
