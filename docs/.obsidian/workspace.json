@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.1 Head.md",
+                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.3 Negative Tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.8 Accessories.md",
+                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.7 Accessories.md",
                 "mode": "source",
                 "source": false
               }
@@ -389,7 +389,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.1 Head.md",
+                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.3 Negative Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -406,7 +406,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.1 Head.md",
+                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.3 Negative Tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -429,7 +429,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.1 Head.md"
+                "file": "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.3 Negative Tags.md"
               }
             }
           }
@@ -452,41 +452,41 @@
   },
   "active": "1611b93013ad0cbe",
   "lastOpenFiles": [
-    "TODO/Colours.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.1 Head.md",
-    "2. Basic Prompting/2. Improving Generated Output/2.2 Img2Img.md",
-    "2. Basic Prompting/2. Improving Generated Output/2.3 Inpainting.md",
-    "10image.png",
-    "1-00123-1105595110.png",
-    "5image.png",
-    "00006-3292840895.png",
-    "00123-1105595110 1.png",
-    "4image.png",
-    "2image.png",
-    "imag1e.png",
-    "00123-1105595110.png",
-    "image.png",
-    "2. Basic Prompting/2. Improving Generated Output/2.1 Creating variations.md",
-    "2. Basic Prompting/3. Getting inspiration/3.2 Booru.md",
-    "2. Basic Prompting/3. Getting inspiration/3.1 Civitai showcases.md",
-    "2. Basic Prompting/2. Improving Generated Output/2. Improving an existing picture.md",
-    "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/1.8 Upscalers.md",
-    "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/1.7 Target Resolution.md",
-    "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/1.6 Adjusting CFG.md",
-    "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/1.5 Cohesive Tags.md",
-    "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/1.4 Weights.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.3 Token bleed and Token fighting.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.3 Negative Tags.md",
-    "2. Basic Prompting/1. Writing Prompts/1.4-1.9 Everything surrounding words/x.x Commas (ignore, outdated, will do more research way later).md",
-    "Intermediate Guide.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/6. Style.md",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/7. Boilerplate + Misc.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/1. Amount + Gender.md",
-    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.8 Accessories.md",
+    "boilerplate 1.png",
+    "boilerplate.png",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/6. Style.md",
+    "color+style ALL.png",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/5. Lightning + Focus.md",
+    "Light ALL.png",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/4. Camera + View.md",
+    "camera ALL.png",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/3. Background.md",
+    "background ALL.png",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2.5 Pose.md",
+    "poses ALL.png",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.5 Misc, onepiece, costume.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.4 Legs, Feet, Shoes.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.6 Traditional Clothes.md",
+    "8.7 Misc + onepiece.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.7 Accessories.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.7 Misc + onepiece.md",
+    "16 accessory ALL.png",
+    "14 attire trad clothes ALL 1.png",
+    "14 attire trad clothes ALL.png",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.3 Bottom.md",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.2 Top.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire/8.1 Head.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/7. Skin Color.md",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/6. Body Figure.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/5. Ears.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/4. Eyes.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/3. Face.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/2. Hair.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/1. Amount + Gender.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/0. Overview + 7z file.md",
+    "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/1. (Optional) General description.md",
+    "TODO/Colours.md",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character/8. Attire",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list/2. Character",
     "2. Basic Prompting/1. Writing Prompts/1.2-1.3 Tags/1.2.2.1 Tags list",
